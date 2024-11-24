@@ -45,8 +45,6 @@ Let me know if you need help with further customization!
 
 ## Create a .env file in the project directory and add your Twitter API credentials:
 
-plaintext
-Copy code
 API_KEY=your_api_key
 API_SECRET=your_api_secret
 ACCESS_TOKEN=your_access_token
